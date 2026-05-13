@@ -1,0 +1,9 @@
+# Log files
+logfiles/
+# file binario
+bios.bin
+bootloader.bin
+#build
+build/
+#disk
+disk.img
